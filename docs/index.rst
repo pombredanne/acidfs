@@ -46,7 +46,7 @@ Motivation
 ==========
 
 The motivation for this package is the fact that it often is convenient for 
-certain very simple problems to simply write and read data from a fileystem, 
+certain very simple problems to simply write and read data from a filesystem, 
 but often a database of some sort winds up being used simply because of the 
 power and safety available with a system which uses transactions and ACID 
 semantics.  For example, you wouldn't want a web application with any amount of
